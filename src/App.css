@@ -26,18 +26,3 @@
   display: inline-block;
   margin-left: 30px;
 }
-
-/*todo-item*/
-
-.todo-item {
-  display: flex;
-  text-align: left;
-}
-
-.todo-content {
-  flex: 1;
-}
-
-.todo-operation {
-  width: 300px;
-}
